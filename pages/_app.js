@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-sync-scripts */
 import App from 'next/app';
 import Head from 'next/head';
 import '../styles/style.css';
