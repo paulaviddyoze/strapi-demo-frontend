@@ -1,9 +1,9 @@
 import ReactMarkdown from 'react-markdown';
 import Moment from 'react-moment';
 import { fetchAPI } from '../../lib/api';
-import Layout from '../../components/layout';
-import Image from '../../components/image';
-import Seo from '../../components/seo';
+import Layout from '../../components/Layout';
+import Image from '../../components/Image';
+import Seo from '../../components/Seo';
 import { getStrapiMedia } from '../../lib/media';
 
 const Article = ({ article, categories }) => {
